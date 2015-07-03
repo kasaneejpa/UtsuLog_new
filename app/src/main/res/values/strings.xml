@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UtsuLog</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About this application</string>
+    <string name="splash">Tashino</string>
+    <string name="title_activity_main">Check your mind.</string>
+    <string name="title_activity_result">Result</string>
+</resources>
